@@ -1,6 +1,6 @@
 {
   "name": "@samdesk/node-image-hash",
-  "version": "0.0.0-2",
+  "version": "0.0.0-3",
   "description": "Perceptual image hash for node.js",
   "main": "index.js",
   "scripts": {
